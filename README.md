@@ -13,11 +13,11 @@
 
 1. `SELECT COUNT(*) FROM visits where animal_id = 4;`
 
-#### BEFORE
-![animal-analyze-before](https://user-images.githubusercontent.com/38635158/145065412-2b4d8803-0ff6-4398-b7b6-64c851570cab.png)
+### BEFORE
+![animal-analyze-before](https://user-images.githubusercontent.com/38635158/145068335-5e6b945d-e6b0-48e9-9117-da9dd3bee306.png)
 
 #### AFTER add index
-![animal-analyze-after](https://user-images.githubusercontent.com/38635158/145065555-a68d9b8d-3fab-4b88-8790-d003ba282369.png)
+![animal-analyze-after](https://user-images.githubusercontent.com/38635158/145068283-dbb26eb2-8478-403a-b8ca-88adf4925801.png)
 
 2. `SELECT * FROM visits where vet_id = 2;`
 #### BEFORE
