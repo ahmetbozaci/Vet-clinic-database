@@ -4,37 +4,33 @@
 
 ## Built With
 
-- Html
-- Javascript
-- React
-- Redux
-- React-Bootstrap
+- Sql
 
-## Live Demo
-
-[Covid World Statistic -Netlify](https://covid-world-statistic.netlify.app/)
 
 
 ## Setup
 - Clone this project
 ```
-- $ git clone `$ https://github.com/ahmetbozaci/react-capstone.git`
-- $ cd react-capstone
+- $ git clone `$ https://github.com/ahmetbozaci/Vet-clinic-database.git`
+- $ cd vet-clinic-database
 ```
-- Install npm packages
-```
-- $ npm install
-```
-- Open website
-```
-- $ npm start
-```
+
 ## Authors
 
 👤 **Ahmet Bozacı**
 - Github:[ahmetbozaci](https://github.com/ahmetbozaci)
 - Twitter:[ahmtbozaci](https://twitter.com/ahmtbozaci)
 - LinkedIn:[ahmetbozaci](https://www.linkedin.com/in/ahmetbozaci/)
+
+👤 **Bishoy Samwel Faheem**
+- GitHub: [@Bishoy Samwel Faheem](https://github.com/Bishoy-Samwel)
+- LinkedIn: [Bishoy Samwel](https://www.linkedin.com/in/bishoy-samwuel-ss/)
+- Twitter: [@bisho](https://twitter.com/BishoFaheem15)
+
+👤 **Luqman Musah**
+
+- GitHub: [@luqmanmusah](https://github.com/luqmanmusah)
+- LinkedIn: [Luqman Musah](https://www.linkedin.com/in/luqman-musah/)
 
 ## 🤝 Contributing
 
