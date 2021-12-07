@@ -46,7 +46,8 @@ CREATE TABLE visits(
   PRIMARY KEY(id)
 );
 
-CREATE INDEX animal_index
-ON visits (animal_id);
+CREATE INDEX animal_index ON visits (animal_id);
+
+CREATE INDEX vet_index ON visits (vet_id);
 
 ALTER TABLE owners ADD COLUMN email VARCHAR(120);
