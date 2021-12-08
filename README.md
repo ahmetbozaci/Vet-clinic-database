@@ -2,10 +2,6 @@
 
 # Vet Clinic Database
 
-## Built With
-
-- Sql
-
 > We use `explain analyze`  for some queries. 
 > Checked execution time before index and after add index.
 
@@ -34,7 +30,9 @@
 #### AFTER add index
 ![email-analyze-before](https://user-images.githubusercontent.com/38635158/145067599-f8bdfe9c-a616-4f8a-99cb-e8fb4109f4fd.png)
 
+## Built With
 
+- Sql
 
 ## Setup
 - Clone this project
